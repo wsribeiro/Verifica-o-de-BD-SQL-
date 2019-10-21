@@ -1,0 +1,11 @@
+E:\prj_02\prj_02\prj_02\bin\Debug\prj_02.exe.config
+E:\prj_02\prj_02\prj_02\bin\Debug\prj_02.exe
+E:\prj_02\prj_02\prj_02\bin\Debug\prj_02.pdb
+E:\prj_02\prj_02\prj_02\bin\Debug\MySql.Data.dll
+E:\prj_02\prj_02\prj_02\bin\Debug\MySql.Data.xml
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.csprojResolveAssemblyReference.cache
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.Form1.resources
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.Properties.Resources.resources
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.csproj.GenerateResource.Cache
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.exe
+E:\prj_02\prj_02\prj_02\obj\Debug\prj_02.pdb
